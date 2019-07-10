@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0429F28022D624B3001907D5 /* PokemonController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0429F27F22D624B3001907D5 /* PokemonController.swift */; };
 		0442D58F22D5545F007450CE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D58E22D5545F007450CE /* AppDelegate.swift */; };
 		0442D59122D5545F007450CE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0442D59022D5545F007450CE /* ViewController.swift */; };
 		0442D59422D5545F007450CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0442D59222D5545F007450CE /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0429F27F22D624B3001907D5 /* PokemonController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonController.swift; sourceTree = "<group>"; };
 		0442D58B22D5545F007450CE /* HomeworkPod.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeworkPod.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0442D58E22D5545F007450CE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0442D59022D5545F007450CE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				0442D59022D5545F007450CE /* ViewController.swift */,
 				0442D59222D5545F007450CE /* Main.storyboard */,
 				04CFD4CD22D56B9F00863877 /* pokemon.swift */,
+				0429F27F22D624B3001907D5 /* PokemonController.swift */,
 				0442D59522D55460007450CE /* Assets.xcassets */,
 				0442D59722D55460007450CE /* LaunchScreen.storyboard */,
 				0442D59A22D55460007450CE /* Info.plist */,
@@ -209,6 +212,7 @@
 				04CFD4CE22D56B9F00863877 /* pokemon.swift in Sources */,
 				0442D59122D5545F007450CE /* ViewController.swift in Sources */,
 				0442D58F22D5545F007450CE /* AppDelegate.swift in Sources */,
+				0429F28022D624B3001907D5 /* PokemonController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
